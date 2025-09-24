@@ -28,6 +28,8 @@ Led matrix pcb with rp2040 embeded into pcb to simulate fuild behavours based on
 | 100  | 0402WGF274JTCE - 27.4Ω 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount ROHS | $0.06       | C31439   |
 | 100  | 0402WGF5101TCE - 5.1kΩ 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount ROHS | $0.05       | C25905   |
 | 100  | 0402WGF1001TCE - 1kΩ 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount ROHS | $0.06       | C11702   |
+
+
 final all toal is 20 - 25$ for parts  more parts on https://docs.google.com/spreadsheets/d/1B7IjNo7W825W_gv3a4BfWUKZrWtPnMB5DJiVofmm6nU/edit?usp=sharing
 
 
